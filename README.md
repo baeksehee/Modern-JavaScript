@@ -25,23 +25,4 @@
 
 ## 학습 일정
 
-|주차|Chapter|
-|:--:|:--:|
-|1주 ( 2023. 06. 19. ~ )|Chapter 01  Chapter 02  Chapter 03 Chapter 04|
-|2주 ( 2023. 06. 26. ~ )|Chapter 05 Chatper 06 Chapter 07|
-|3주 ( 2023. 07. 03. ~ )|Chapter 08 Chatper 09|
-|4주 ( 2023. 07. 10. ~ )|Chapter 10 Chatper 11|
-|5주 ( 2023. 07. 17. ~ )|Chapter 12 Chatper 13|
-|6주 ( 2023. 07. 24. ~ )|Chapter 14 Chatper 15 Chapter 16|
-|7주 ( 2023. 07. 31. ~ )|Chapter 17 Chatper 18|
-|8주 ( 2023. 08. 07. ~ )|Chapter 19 Chapter 20 Chapter 21|
-|9주 ( 2023. 08. 14. ~ )|Chapter 22 Chapter 23 Chapter 24|
-|10주 ( 2023. 08. 21. ~ )|Chapter 25 Chapter 26|
-|11주 ( 2023. 08. 28. ~ )|Chapter 27|
-|12주 ( 2023. 09. 04. ~ )|Chapter 28 Chapter 29 Chapter 30 Chapter 31 Chapter 32 Chapter 33|
-|13주 ( 2023. 09. 11. ~ )|Chapter 34 Chapter 35 Cahpter 36 |
-|14주 ( 2023. 09. 18. ~ )|Chapter 37 Chapter 38|
-|15주 ( 2023. 09. 25. ~ )|Chapter 39|
-|16주 ( 2023. 10. 02. ~ )|Chapter 40 Chapter 41| 
-|17주 ( 2023. 10. 09. ~ )|Chapter 42 Chapter 43 Chapter 44 Cahpter 45|
-|18주 ( 2023. 10. 16. ~ )|Chapter 46 Chapter 47 Chapter 48 Chapter 49| 
+~2024.5.
